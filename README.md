@@ -1,5 +1,5 @@
 ### Notes App
-This app is a commnad line tool that allows you create, remove, list, and read notes.
+This app is a command line tool that allows you create, remove, list, and read notes using command line.
 
     ## Usage with specific commands:
     `list` - Lists all notes. ( node app.js list )
