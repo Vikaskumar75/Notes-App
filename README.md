@@ -2,10 +2,10 @@
 This app is a command line tool that allows you create, remove, list, and read notes using command line.
 
 ## Usage with specific commands:
-- list - Lists all notes.`( node app.js list )`
-- add - Creates a new note. `( node app.js add --title="Title" --body="Body" )`
-- remove - Removes a note. `( node app.js remove --title="Title" )`
-- read - Reads a note. `( node app.js read --title="Title" )`
+- list - Lists all notes.`node app.js list`
+- add - Creates a new note. `node app.js add --title="Title" --body="Body"`
+- remove - Removes a note. `node app.js remove --title="Title"`
+- read - Reads a note. `node app.js read --title="Title"`
 
 ## Tech Stack:
 - [Node.js](https://nodejs.org/)
